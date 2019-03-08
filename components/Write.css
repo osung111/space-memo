@@ -1,0 +1,44 @@
+.Write {
+  float: right;
+  height:90%;
+  background-image: url('./moon4.jpg');
+  background-size: cover;
+    background-color: rgba( 255, 255, 255, 0.5 );
+  width:49%;
+
+  border:solid 1px black;
+  margin-top: 5%;
+
+
+}
+
+.WriteOk{
+  float: right;
+  width:15%;
+  height:4%;
+  border:solid 1px black;
+  background-color: white;
+    background-color: rgba( 255, 255, 255, 0.5 );
+}
+
+
+.WriteOk:hover{
+  opacity: 0.6
+}
+
+.descBody1{
+  height:90%;
+  margin-top:5%;
+
+}
+
+textarea{
+  font-size: 30px;
+  font-family: Georgia;
+  padding: 20px 10px 40px 10px ;
+  width:74%;
+  height:75%;
+  opacity: 0.8;
+  background-color: white;
+  border: solid 1px;
+}
